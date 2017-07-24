@@ -1,4 +1,5 @@
-#hello.pl
+#!/usr/bin/perl
+#1.pl
 #   Displays a warm greeting.
 
 print "What is your name? ";
